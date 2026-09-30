@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1397162211.svg)](https://doi.org/10.5281/zenodo.23055107)
 # Craniofacial Reconstruction using Generative Models
 
 This repository contains implementations and experimental code for **craniofacial reconstruction using generative deep learning models**, with a particular focus on reconstructing facial appearance from skull/X-ray images.
