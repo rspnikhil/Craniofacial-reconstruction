@@ -103,11 +103,7 @@ The datasets used in our experiments can be accessed from: https://github.com/si
 
 ## Environment
 
-The required software environment is provided in:
-
-```text
-environment.yml
-```
+The required software environment is provided in: environment.yml
 
 Create the Conda environment using:
 
@@ -115,10 +111,6 @@ Create the Conda environment using:
 conda env create -f environment.yml
 conda activate pytorch-img2img
 ```
-
----
-
----
 
 ## Acknowledgements
 
